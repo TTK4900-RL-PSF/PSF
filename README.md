@@ -1,3 +1,3 @@
 # PSF
 
-A submodule for to the RL PSF implementation
+A submodule for the RL PSF implementation
